@@ -1,0 +1,677 @@
+Piel de Anteka
+Piedra disco
+Mineral hierro
+H. monstr. pq.
+Piel Bullfango
+Piel de Kelbi
+Min. Machalita
+Escama Kut-Ku
+Colm. Velociprey
+Cráneo desconoc.
+Piel de Blango
+Escama Giaprey
+Astas de Anteka
+Cristal tierra
+Piedra de afilar
+Baya hueca
+Cásc. hueso pq.
+Esc. Velociprey
+Piel Velociprey
+Bicho carpintero
+Ala de Vespoid
+Concha Vespoid
+Cristal ligero
+Cabeza Hornetaur
+Concha Hornetaur
+Piel vibrante
+Fluido monstruo
+Piel de Gendrome
+Escama Genprey
+Escama Ioprey
+Piel de Ioprey
+Oreja de Kut-Ku
+Concha Kut-Ku
+Cincha de Kut-Ku
+Aleta Cephalos
+Escama Cephalos
+Piel Congalala
+Garra afilada
+Piel gomosa
+Piedra antisépt.
+Piel de Genprey
+Hueso pálido
+Piel blanda
+Garra Hermitaur
+Con. Hermitaur
+Escama Plesioth
+Arrowana bomba
+Concha Lang. pq.
+Aleta Plesioth
+Con. Kut-Ku azul
+Piel gomosa pura
+Piel seductora
+Esc. Plesioth v.
+Al. Plesioth v.
+Concha Basarios
+Caballa cuchillo
+Concha Monoblos
+Cuerno encarnado
+Oreja de Garuga
+Pico afilado
+Concha de Garuga
+Crin de Garuga
+Pelo Blangonga
+Piel Blangonga
+H. monstr. gr.
+Piel Velocidrome
+Garra Ceanataur
+Conch. Ceanat.
+Con. Ceanat. pq.
+Escar. asesino
+Escama Rathian
+Concha Rathian
+C. crán. Tigrex
+Escama de Tigrex
+Concha de Tigrex
+Ala de Rathalos
+Escama Rathalos
+Min. Dragonita
+Cuerno retorcido
+Concha Diablos
+Hueso monstruo+
+Concha Gravios
+C. crán. Gravios
+Cu. Ret. Blos n.
+Concha Blos n.
+Con. Gravios n.
+Crán. Gravios n.
+Seta del caos
+Paraliseta
+Tick. com. Fel.
+Bicho divino
+Piel de Mosswine
+Sello hue. zarpa
+Cabeza Bullfango
+Piel Bulldrome
+Hueso gigante
+Cráneo Giadrome
+Piel de Giaprey
+Moneda Kut-Ku
+Cab. Velocidrome
+Moneda Congalala
+Bolsa de llama
+Bolsa eléctrica
+Zumo de poder
+Perla negra
+Ala de Basarios
+Ala de Hornetaur
+Ticket Pokke
+Cristal hielo
+Cristales vida
+Mención honor G
+Rubí­ piel Felyne
+Grillo emperador
+Tick. com. Fel.+
+Piedra fuego
+Pesc. gourmet
+Cráneo Gendrome
+Colmillo Wyvern
+Moneda de Khezu
+Mon. Yian Garuga
+Ticket cint. n.
+Moneda Shogun
+Columna Gaoren
+Mención de honor
+Dosbiscus
+Moneda de Tigrex
+Moneda Diablos
+Cráneo Iodrome
+Moneda de Daimyo
+Cráneo Remobra
+Fl. Wyv. fuego
+Hierba atardecer
+Flor de cactus
+Carpa primavera
+Atún pincho
+Libro combos 1
+Ticket Hypno
+PeloHypnoNarnja+
+Colmillo Hypno
+Pez somnífero
+Gar Hypno gr cal
+Hierba somní­fera
+Gran mosca corn.
+Hercudrome
+Bicho eléctrico
+Piedra oscura
+Trozo oscuro
+Poción antigua
+Tela siniestra
+Piel rayada
+Colmillo de Blos
+H. dragón viejo
+Ticket Lavasioth
+EscGrsaLavasioth
+AletaLavasEsp+
+Piel Chameleos
+Cincha Chameleos
+Placa de Rathian
+Cuerno de Daora
+Concha de Daora
+Piel de Kirin
+Cuerno de Kirin
+Crin de Kirin
+Musgo de dragón
+Madera de dragón
+Placa Rathalos
+Escama Lao-Shan
+Cuerno Lao-Shan
+Cuerno majest.
+Crin de Lunastra
+Cincha dr. fuego
+Sangre dr. anc.
+Concha de Gaoren
+Cuerno Teostra
+Esc. dr. fuego
+(dummy)King Lobster Shl
+(dummy)Famitsu Ticket
+Cuerno Mon. bl.
+Columna Mon. bl.
+Concha Mon. bl.
+Con. Rathian ro.
+Es. Rathi. rosa
+Púa de Rathian
+Ala Rthls. ce.
+Esc. Rthls. ce.
+Cap. Rthls. ce.
+Piel alta calid.
+Piel de Blango +
+Insecto arcoiris
+Piel Bulldrome +
+Min. Carbalita
+Escarabajo rey
+Cráneo maestro
+Hueso sólido
+Esc. Velociprey+
+Piel Velociprey+
+Ala int. Vespoid
+Caparaz. Vespoid
+Caldo monstruo
+Cristal nova
+Esc. drg. Daora
+Ala int. Hornet.
+Cap. Hornetaur
+Escama Genprey+
+Piel de Genprey+
+Bolsa parálisis
+Escama Ioprey+
+Piel de Ioprey+
+Bolsa de toxinas
+Or. Kut-Ku larga
+Caparazón Kut-Ku
+Piel de Conga +
+Escama Cephalos+
+Aleta Cephalos+
+Piel Congalala +
+Garra Congalala+
+Piel gomosa+
+Cabeza Gypceros
+Cola de Gendrome
+Piel Khezu Curt.
+H. monstruo duro
+Garr. Hermit.+
+Cap. Hermitaur
+Con. cr. Wyvern
+PeloHypnoNarnja
+PlmaColaArcoIris
+Pico Hypno
+Lágrima Basarios
+Capar. Basarios
+Escama Kut-Ku+
+Esc. Kut-Ku az.+
+Escama Plesioth+
+Aleta Plesioth +
+Tórax Monoblos
+CuernoRojoAltaCa
+Cap. Monoblos
+Piedra lava
+Or.larga Garuga
+Pico rejuvenec.
+Caparazón Garuga
+Piel Blangonga+
+Colm. Blangonga+
+Hueso bruto
+Cap. Ceanataur
+Garr. Ceanat.+
+Escama Rathian+
+Caparaz. Rathian
+Púa Cola Narga
+Escama Narga+
+Cerebro Narga
+Garra Tigrex +
+Colmillo Tigrex+
+Rubí­ de Rathalos
+Escama Rathalos+
+Caparaz. Diablos
+Escarabajo raro
+Caparaz. Gravios
+Piel de Giaprey+
+Mineral arcoiris
+Escama Giaprey +
+Cap. Kut-Ku azul
+Es. Cphls. coral
+Al. Cphls. coral
+Ala Gypceros pur
+Cincha seductora
+Fil. Khezu pál.
+Pez dorado peq.
+Esc. Plesioth v+
+Al. Plesioth v.+
+Cap. Blos negro
+Cap. Gravios n.
+Ticket experto
+Moneda de Kirin
+Moneda de fuego
+Cincha Fatalis
+Polvo dr. fuego
+Caparazón Daora
+(dummy)One-HornedTicket
+(dummy)Pirate J Ticket
+Capar. Teostra
+Piel de Remobra+
+Cuerno Rajang
+Piel Rajang dor.
+P. Rajang negro
+Esc. drg. Daora+
+Zumo Bicho eléc.
+Bolsa infernal
+Piel Chameleos +
+Joya Chameleos
+Joya de Daora
+Piel de Kirin+
+Cuerno Kirin ce.
+Escama Lao-Shan+
+Garra Lao-Shan
+Capar. de Gaoren
+Tórax de Gaoren
+Cuerno Teostra +
+Esc. dr. fuego +
+Joya dr. fuego
+Ojo de Fatalis
+Escama Fatalis
+Cuerno Fatalis
+Cola Wyv. fuego
+Garra de Akantor
+Concha Akantor
+Escama Akantor
+Piedra de Wyvern
+Pesc. gourmet +
+Cap. Rthls. pl.
+Mineral de unión
+Moneda Rajang
+Pí­ldora armadura
+Atún lanza
+Tórax Monobl bl
+Cap. Monoblos bl
+CuernoPlatAltaCa
+Cap. Rathian ro.
+Es. Rathi. ro.+
+Púa de Rathian +
+Crza. Rthls. ce.
+Con. Rathian do.
+Esc. Rathian do.
+Rubí de Rathian
+Ala Rathalos pl.
+Concha Lao-S ce.
+Cuerno Lao-S ce.
+Ojo dem. Fatalis
+Esc. Ca. Fatalis
+Cu. Ca. Fatalis
+Esc. Fatalis bl.
+Cu. Fatalis bl.
+OrjaKut-KuSuerte
+Con. pes Kut-Ku
+Ala Kut-Ku dura
+PielDuCongalala+
+GrraDuCongalala+
+Piel gomosa Esp+
+CabGypcerosDura
+Cristal puro
+Piel crema Khezu
+HuesoMonstruoPes
+Esencia monstruo
+GarraDuHermitaur
+ConPesHermitaur
+Hypno Bezoar +
+EscGruesaKut-Ku
+ConPesBasarios
+AlaBasariosDura
+Pez antiguo
+Min. Eltalita
+Esc Plesioth gr.
+AletPlesiothEsp+
+ColPesPiscine
+Min. Mellanje
+Con. Garuga dura
+Piel Garuga plt
+PielDuBlangonga+
+ColPesBlangonga
+Garra desgarr.
+ConPesCeanataur
+GarraCeanatDura
+Esc Rathian gr.
+ConPesRathian
+PúaColaNargaDur
+EscamaNargaGru
+EscamaNargaCielo
+ConPesLavasioth
+Piel Remobra Esp
+GarraTigrexDura
+EscTigrexCielo
+EscRathalosDura
+AlaRathalosFrte
+EscRathalosCielo
+ConPesDiablos
+Cuerno sólido
+Mariposa fantsm.
+ConPesGravios
+Tr. cer. Gravios
+CorPesKut-KuAzul
+PielCongaEsm+
+Cresta Vibrante
+GarraCongaEsmDur
+AlaGypPurDura
+Ala seduct. dura
+CorteEspKhezu
+Polvo de vida
+GarD.HermitaurCz
+ConD.HermitaurCz
+EscPlesiothVrdGr
+AletaPlesVrdEsp+
+Piel BlangCobr+
+ColmBlangoCobr
+ConTerraCeanatr
+GarTerraCeanat.
+Perla negr. gig.
+ConPesBlosNgr
+CuerNegroCurvSol
+Piedra Wyvern g.
+ConPesGraviosNgr
+Crno Rajang duro
+PielRajangNegro
+EscDragDaoraGr
+Piel Rajang dor+
+EscRathianDorGru
+GarraLao-ShanCel
+Moneda experto G
+MonedaGuerrG
+Piel Kirin Espc+
+Moneda leyenda G
+Mención honor S
+Gel. Bicho eléc.
+Bolsa lanzallam.
+PielChameleEsp+
+Joya DragTierrGr
+ConPesDaora
+CuernoDaoraDuro
+HuesoWyvernTieGr
+Crin platino
+EscDragónFuegoGr
+Cap. Lunastra
+Concha Lunastra
+ConPesGaoren
+ColPesGaoren
+CueChameleosDuro
+ConGaorenCielo
+CueTeostraDuro
+MusgoDragónAnc
+MaderaDragónAnc
+FluidYamaTsukami
+Ojo malvado Fat.
+EscGruFatalis
+CuerDuroFatalis
+AletaUkanlosFue
+ConPesUkanlos
+ConPesLao-Shan
+Piedra Ukanlos
+Libro combos 5
+ConPesRathianRsa
+EscRathianRsaGr
+Espina Rathian
+ConPesRthlsCel
+CorRathianDorPes
+EspRathianDor
+EscRathianCielo
+ConPesRthlsGris
+EscLao-ShanCielo
+ConPesFatalisCar
+CueFatalisCarDu
+EscGrFatalisBl
+CuernFatalisBlDu
+Piel de Giadrome
+Bolsa de veneno
+Piel de Conga
+Con. Hermit. pq.
+Colmillo Piscine
+Esc. Kut-Ku azul
+Columna Monoblos
+Escama de Garuga
+Ala de Garuga
+Colmillo Tigrex
+Garra de Tigrex
+Cincha Rathalos
+Concha Rathalos
+Columna Diablos
+Piel de Iodrome
+Colum. Blos n.
+Moneda Blangonga
+Tick. alma cazd.
+Carne caliente
+Piel de Remobra
+Hiedra
+Arrowana revent.
+ColPesLavasioth
+Cincha de Daora
+Concha Lao-Shan
+Crin de Teostra
+Corazón Monoblos
+Garra Wyv. fuego
+Garra Hypno+
+Hypno Bezoar
+Escama Garuga+
+Piel Narga ngr
+Colm. Nargacuga+
+Caparazón Tigrex
+Capar. Rathalos
+Tórax de Diablos
+Bolsa somní­fera
+Tórax Blos n.
+(dummy)Famitsu Invoice
+Ticket cazador
+Escama Tigrex +
+Méd. Wyv. fuego
+Capar. Lao-Shan
+Concha Fatalis
+Colm. de Akantor
+Seta picante
+Atún gastrónomo
+Esc. Rthls. ce+
+Esc. Rthls. pl.+
+Cola de Lunastra
+Con. Ca. Fatalis
+Con. Fatalis bl.
+HuesoWyvernRobus
+Bolsa ven mortal
+Esc. Garuga grsa
+Ala Garuga frte
+Hueso masivo
+Piel Narga ngr+
+ColPesNargacuga
+ConPesTigrex
+ColPesTigrex
+ConPesRathalos
+EspPesDiablos
+Bolsa de coma
+EscGrKut-KuAzul
+PeloBullfangoGr
+CueroPielPelagus
+EspPesBlosNeg
+ConGraviosNgCiel
+(dummy)FamitsuSpcialTkt
+MonedaCintNg G
+TcktMarionetaEsp
+GarraRajangDura
+ColPesRajang
+Ala Daora dura
+CueroColaKirinTr
+Púa Lunastra
+ConPesTeostra
+Filt YamaTsukami
+ConPesFatalis
+Ala dura Fatalis
+MandPalaUkanlos
+SubEscUkanlos
+EscRathCelGr
+EscRathalosPlGr
+EscFatalisCarGr
+ConFatalisBlDur
+Colmillo Genprey
+Colmillo Ioprey
+Cola de Garuga
+Pinz. Ceanataur
+Cola de Rathalos
+Garra Giadrome
+G. Velocidrome
+Moneda Plesioth
+Mon. Cephadrome
+Planta de savia
+Nutrientes
+Garra Chameleos
+Garra de Daora
+Pinzas de Gaoren
+Concha Teostra
+Garra dr. fuego
+Cola Rthls. ce.
+G. Velocidrome+
+Abdomen Vespoid
+Cola Blangonga
+Cola de Rajang
+Bolsa de trueno
+Púa de Chameleos
+Garra afil Daora
+Moneda Gravios
+Megapiel armad.
+Cola Rthls. pl.
+Ala Ca. Fatalis
+Cin. Fatalis bl.
+CuerolColaGaruga
+CueroColaBlango
+PataCeanataurPes
+EscTigrexGr
+ConGraviosCielo
+Bolsa de rayo
+CuerColBlangCobr
+GarraDuraGaoren
+GarDragónFuegoDu
+Piel YamaTsukami
+GarraCavUkanlos
+ColaPielRathPl
+AlaFatalisCarDu
+AlaFatalisBlFuer
+H. monstr. med.
+Colm. Congalala
+Carne frí­a
+Piel de armadura
+Extracto pálido
+Gran mariquita
+Cola Chameleos
+Cuerno Lunastra
+Cásc. hueso gr.
+Colm. Bulldrome
+Ala cuch. Narga
+Garra de Gaoren
+Púa de Akantor
+Baya congelada
+GrraDuraWyvFuego
+AlaCuchNargaFrte
+ColmlloPelagusLg
+CueroColaChamele
+ColaPesUkanlos
+EscLao-ShanPes
+Pata Ceanataur
+Tesoro Shakalaka
+Hierba antí­doto
+Inmunizador
+Atún glotón
+Megadroga demon.
+(dummy)Famitsu PT Tckt
+Heren. Shakalaka
+Cola Kirin true.
+Poción máx.
+Rubí­ Lao-Shan
+ConGranLangosta
+AlaChameleosDura
+Semilla de poder
+Joya de Suiko
+Droga demoníaca
+Joya de Akito
+Joya lapislázuli
+Joya campo bat.
+Cor. Reina Vesp.
+Medicina herbal
+Bicho amargo
+Bebida energét.
+Píldora de poder
+Colm. Blangonga
+Cola Blos negra
+Pico espléndido
+Pez estruendoso
+Garra Congalala
+Disp. normal Nv3
+Disp. perf. Nv3
+D. perdigón Nv3
+Disp. expl. Nv3
+Disp. grupo Nv3
+Revest. energí a
+Revest. c.dist.
+Revest. veneno
+Revest. parál.
+Revest. sueño
+Madera dragón +
+Cuerno de Kelbi
+Trampa choque
+Filete al punto
+Filete gourmet
+Carne tostada
+Megazumo
+Cola de Daora
+Gran conc. Lang.
+Rana con cola
+Vid Felyne
+Catalizador
+Ala cuch. Vesp.
+Extracto poder
+Hierba de fuego
+Semilla dragón
+Disp. dragón
+Ala cuch. Horn.
+Nitroseta
+Salta bichos
+Boomerang
+Flauta
+Seta excitante
+Megapico
+Megarred bichos
+TesoroShakalaka+
+Red
+Herram. trampa
+Huevo de acero
+Huevo de oro
+Grillo
+Bicho ñame
+Psicosuero
+Prismáticos
+Miel
+Flauta de Salud
+Pólvora
+Tiquet Camarada

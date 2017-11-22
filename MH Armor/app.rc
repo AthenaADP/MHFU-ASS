@@ -1,0 +1,54 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+#include "Version.h"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+1                       ICON                    "app.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION VERSION_RC
+ PRODUCTVERSION VERSION_RC
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "140904b0"
+        BEGIN
+            VALUE "FileDescription", "Athena's Armor Set Search"
+            VALUE "InternalName", "MH"
+            VALUE "LegalCopyright", "Copyright (C) 2010"
+            VALUE "ProductName", "Athena's ASS"
+            VALUE "ProductVersion", STRINGIZE( VERSION_NO )
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x1409, 1200
+    END
+END
+
+/////////////////////////////////////////////////////////////////////////////
+
+

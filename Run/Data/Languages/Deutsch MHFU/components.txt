@@ -1,0 +1,677 @@
+﻿Anteka-Pelz
+Scheibenstein
+Eisenerz
+Monsterknochen S
+Bullfango-Fell
+Kelbi-Haut
+Machalit-Erz
+Kut-Ku-Schuppe
+Velociprey-Zahn
+Anonymer Schädel
+Blango-Pelz
+Giaprey-Schuppe
+Anteka-Geweih
+Erdkristall
+Wetzstein
+Hülsenbeere
+Kl. Knochenhülse
+Velocip-Schuppe
+Velociprey-Haut
+Tischlerkäfer
+Vespoid-Flügel
+Vespoid-Panzer
+Lichtkristall
+Hornetaur-Kopf
+Hornetaur-Panzer
+Leuchtender Pelz
+Monsterfluid
+Gendrome-Haut
+Genprey-Schuppe
+Ioprey-Schuppe
+Ioprey-Haut
+Kut-Ku-Ohr
+Kut-Ku-Panzer
+Kut-Ku-Gewebe
+Cephalos-Flosse
+Cephalos-Schuppe
+Congalala-Pelz
+Scharfe Klaue
+Gummihaut
+Antiseptikstein
+Genprey-Haut
+Bleicher Knochen
+Schwabbelhaut
+Hermitaur-Klaue
+Hermitaur-Panzer
+Plesioth-Schuppe
+Bomben-Arrowana
+Kl Hummerpanzer
+Plesioth-Flosse
+BlauerKutKuPanzr
+Lila Gummihaut
+LockendeLedrhaut
+GrünPles-Schup.
+GrünPles-Flosse 
+Basarios-Panzer
+Messermakrele
+Monoblos-Panzer
+Blutrotes Horn
+Garuga-Ohr
+Geschliff Schnab
+Garuga-Panzer
+Garuga-Mähne
+Blangonga-Bart
+Blangonga-Pelz
+Monsterknochen L
+Velocidrome-Haut
+Ceanataur-Klaue
+Ceanataur-Panzer
+KlCeanataurPnzer
+Killerkäfer
+Rathian-Schuppe
+Rathian-Panzer
+TigrexSchädPanz
+Tigrex-Schuppe
+Tigrex-Panzer
+Rathalos-Flügel
+Rathalos-Schuppe
+Drachenit-Erz
+Gedrehtes Horn
+Diablos-Panzer
+Monsterknochen+
+Gravios-Panzer
+GraviosSchädlPnz
+GedrschwaBloshrn
+Schw Blos-Panzer
+Schw. Grav-Panz
+SchwzGravsSchäd
+Chaospilz
+Lähmpilz
+FlynMahlPassNorm
+Götterkäfer
+Mosswine-Haut
+Tatzendruckmarke
+Bullfango-Kopf
+Bulldrome-Haut
+Riesenknochen
+Giadrome-Schädel
+Giaprey-Haut
+Kut-Ku-Münze
+Velocidrome-Kopf
+Congalala-Münze
+Flammenbeutel
+Strombeutel
+Kraftsaft
+Schwarze Perle
+Basarios-Flügel
+Hornetaur-Flügel
+Pokke-Schein
+Eiskristall
+Lebenskristalle
+Belobigung G
+Felyne-Pelzrubin
+KaiserGrile
+FlynMahlPassPlus
+Feuerstein
+Gourmet-Fisch
+Gendrome-Schädel
+Wyvern-Reißzahn
+Khezu-Münze
+YianGaruga-Münze
+Schwarzgürt-Sch.
+Shogun-Münze
+Gaoren-Rückgrat
+Empfehlung
+Dosbiskus
+Tigrex-Münze
+Diablos-Münze
+Iodrome-Schädel
+Daimyo-Münze
+Remobra-Schädel
+FeuerwyvernEssnz
+Abendrot-Kraut
+Kaktusblüte
+Frühlingskarpfen
+Nadeltunfisch
+Kombi-Buch 1
+Hypno-Schein
+OrangeHypnoPelz+
+Hypno-Reißzahn
+Schlaffisch
+ErstklasHypnKlau
+Schlafkraut
+Große Hornfliege
+Herkudrome
+Donnerkäfer
+Dunkler Stein
+Dunkler Splitter
+Uralter Trank
+Finsteres Tuch
+Gestreifte Haut
+Blos-Reißzahn
+Drachältestknoch
+Lavasioth-Schein
+DickLavasiothSch
+SpezLavasioFlo+
+Chameleos-Haut
+Chameleos-Gewebe
+Rathian-Platte
+Daora-Horn
+Daora-Panzer
+Kirin-Haut
+Kirin-Horn
+Kirin-Mähne
+Drachenmoos
+Drachenholz
+Rathalos-Platte
+Lao-Shan-Schuppe
+Lao-Shan-Horn
+Erhabenes Horn
+Lunastra-Mähne
+FeuerDrachGewebe
+DrachÄltestBlut
+Gaoren-Panzer
+Teostra-Horn
+FeuerDrachSchup
+(dummy)King Lobster Shl
+(dummy)Famitsu Ticket
+Weiß Monob-Horn
+Weiß Monob-Grat
+Weiß Monob-Panz
+Rosa Rath-Panzer
+Rosa Rath-Schupp
+Rathian-Stachel
+AzurRath-Flügel
+AzurRath-Schuppe
+AzurRath-Panzer
+HochwertigerPelz
+Blango-Pelz+
+Regenbogeninsekt
+Bulldrome-Haut+
+Karbalit-Erz
+Königsskarabäus
+Meisterschädel
+Robuster Knochen
+Velocip-Schuppe+
+Velociprey-Haut+
+VespoidInnenFlüg
+VespoidRückenPnz
+Monsterbrühe
+Novakristall
+DaoraDrachSchupp
+HornetaurInnFlüg
+HornetaurRückPnz
+Genprey-Schuppe+
+Genprey-Haut+
+Lähmbeutel
+Ioprey-Schuppe+
+Ioprey-Haut+
+Toxinbeutel
+Kut-Ku-Langohr
+Kut-Ku-RückenPnz
+Conga-Pelz+
+CephalosSchuppe+
+Cephalos-Flosse+
+Congalala-Pelz+
+Congalala-Klaue+
+Gummihaut+
+Gypceros-Kopf
+Gendrome-Schweif
+Khezu-Haut Gerb
+Monsterknochen X
+Hermitaur-Klaue+
+HermitaurRückPnz
+WyvernSchädelPnz
+OrangeHypno-Pelz
+Rgnbognschwnzfdr
+Hypno-Schnabel
+Basarios-Tränen
+BasariosRückPanz
+Kut-Ku-Schuppe+
+BlaueKutKuSchup+
+PlesiothSchuppe+
+Plesioth-Flosse+
+Monoblos-Thorax
+HochwrtRotesHorn
+MonoblosRüknpnzr
+Feuerzellenstein
+LangesGaruga-Ohr
+VerjüngtSchnabel
+GarugaRücknpanzr
+Blangonga-Pelz+
+BlangongReißzhn+
+Wilder Knochen
+CeanataurRückPnz
+Ceanataur-Klaue+
+Rathian-Schuppe+
+RathianRückenPnz
+NargaSchwfStachl
+Narga-Schuppe+
+Narga-Hirnstamm
+Tigrex-Klaue+
+Tigrex-Reißzahn+
+Rathalos-Rubin
+Rathal-Schuppe+
+DiablosRückenpnz
+Seltener Skarab.
+GraviosRückenPnz
+Giaprey-Haut+
+Regenbogenerz
+Giaprey-Schuppe+
+BlauKutKuRückPnz
+KoralCeph-Schupp
+KoralCeph-Flosse
+LilaGypc-Flügel
+Lockendes Gewebe
+BleichKhezuSteak
+Kl. Goldenfisch
+GrünPles-Schup+
+GrünPlesFlosse+
+SchwrzBlosRckPnz
+Schw GravRückPnz
+Experten-Schein
+Kirin-Münze
+Feuer-Münze
+Fatalis-Gewebe
+FeuerDrachPulver
+Daora-Rückenpnz
+(dummy)One-HornedTicket
+(dummy)Pirate J Ticket
+TeostraRückenPnz
+Remobra-Haut+
+Rajang-Horn
+Gold-Rajang-Pelz
+SchwzRajang-Pelz
+DaoraDrachSchup+
+Donnerkäfersaft
+Höllenbeutel
+Chameleos-Haut+
+Chameleos-Juwel
+Daora-Juwel
+Kirin-Haut+
+Kirin-AzurHorn
+LaoShan-Schuppe+
+Lao-Shan-Klaue
+Gaoren-Rückenpnz
+Gaoren-Thorax
+Teostra-Horn+
+FeuerDrachSchup+
+FeuerDrachJuwel
+Fatalis-Auge
+Fatalis-Schuppe
+Fatalis-Horn
+FeuerwyvHrnstamm
+Akantor-Klaue
+Akantor-Panzer
+Akantor-Schuppe
+Wyvern-Stein
+Gourmet-Fisch+
+SilbRthlosRckPnz
+Bindungserz
+Rajang-Münze
+Panzerpille
+Speertunfisch
+WßMonoblosThorax
+WßMonoblosRükPnz
+HochwertPlatHorn
+Rosa Rath-Panz+
+Rosa Rath-Schup+
+Rathian-Stachel+
+AzurRathRückPnz
+GldRathianRckPnz
+GldRathianSchup+
+Rathian-Rubin
+SilbRath-Flügel
+AzurLaoSh-Panzer
+Azur LaoSh-Horn
+Fata-Teufelsauge
+KarmFatalisSchup
+KarmFatalisHorn
+WeißFatalisSchup
+WeißFatalisHorn
+GlücksKut-Ku-Ohr
+SchwerKutKuPanzr
+StarkKutKuFlügel
+HrtCongalalaPlz+
+HrtCongalalaKla+
+Spez. Gummihaut+
+HartGypcerosKopf
+Reiner Kristall
+KhezuLdrhautCrem
+SchwerMonstrknch
+Monsteressenz
+HartHermitauKlau
+SchweHermitauPnz
+Hypno-Bezoar+
+DickKutKuSchuppe
+SchweBasariosPnz
+StrkBasariosFlüg
+Uralter Fisch
+Eltalit-Erz
+DickPlesiothSchu
+DickPlesiothFlo+
+SchwPiscReißzahn
+Mellanje-Erz
+SchwrGarugaPanzr
+SilberGarugaPelz
+HrtBlangongaPlz+
+SchBlangongaRßzn
+SuperscharfKlaue
+SchweCeanatauPnz
+HartCeanatauKlau
+DickRathianSchup
+SchweRathianPanz
+SchweNargSchfStl
+DickeNarga-Schup
+HimmlNarga-Schup
+SchweLavasioPnzr
+SpezRemobraHaut+
+HarteTigrexKlaue
+HimmlTigrexSchup
+HrtRathalosSchup
+StrkRathalosFlüg
+HimlRathalosSchu
+SchweDiablosPanz
+RobustWellenHorn
+Phantomschmettrl
+SchweGraviosPanz
+GraviosHirnstamm
+SchweBlaKutKPanz
+SmCongalalaPelz+
+Leuchtender Kamm
+HrtSmCongaKlaue
+HartLilGypcerFlü
+StarkVerlockFlüg
+KhezuSpezSchnitt
+Lebenspulver
+PflauDHermitKlau
+PflauDHermitPnzr
+DickGrüPlesioSch
+DickGrüPlesioFl+
+KuBlangongaPelz+
+SchwKuBlangoRßzn
+TerraCeanatrPnzr
+TerraCeanatrKlau
+SchwRiesenperle
+SwerSwarzBlosPnz
+RobstSchwaGdrHrn
+GroßWyvernStein
+SweSwaGraviosPnz
+HartesRajangHorn
+SchwazRajangPlz+
+DickDaoraDrchPnz
+GoldRajangPelz+
+DickGoldRathSchu
+AzurLaoShanKlaue
+Expertenmünze G
+Kriegermünze G
+Spez.Kirin-Haut
+Legendenmünze G
+Belobigung S
+Donnerkäfergelee
+Superhitzebeutel
+SpezChamel-Haut+
+GrDrachenältJuwl
+SchwerDaoraPanz
+HartesDaroaHorn
+GrDrachenältknch
+Platinum-Mähne
+DckFeurDrchSchup
+LunastraRüknpnzr
+Lunastra-Panzer
+SchwerGaorenPanz
+SchweGaorenRüPnz
+HrtChameleosHorn
+HimlGaorenPanzer
+HartTeostraHorn
+UraltesDrchnmoos
+UraltesDrchnholz
+YamaTsukamiFluid
+Fatalis-Bösauge
+DickFatalisSchup
+HartFatalishorn
+StarkUkanlosFlos
+SchweUkanlosPanz
+Lao-ShanSchwePnz
+Ukanlos-Stein
+Kombi-Buch 5
+SchweRosaRathPnz
+DickRosaRathSchu
+Rathian-Dorn
+SchweAzrRthlsPnz
+SchweGoldRathPnz
+GoldRathian-Dorn
+SchweRathianSchu
+SchweSilRthlsPnz
+Lao-ShanHimlSchu
+SchweFatalKarmPz
+HrtFatalKarmHorn
+DickWßFatalSchup
+HrtWßFatalisHorn
+Giadrome-Haut
+Giftbeutel
+Conga-Pelz
+KlnHermitaurPnz
+Pisces-Reißzahn
+BlauKut-Ku-Schup
+Monoblos-Grat
+Garuga-Schuppe
+Garuga-Flügel
+Tigrex-Reißzahn
+Tigrex-Klaue
+Rathalos-Gewebe
+Rathalos-Panzer
+Diablos-Rückgrat
+Iodrome-Haut
+Schw Blos-Grat
+Blangonga-Münze
+Jägerseelenschn
+Warmes Fleisch
+Remobra-Haut
+Efeu
+Berst-Arrowana
+SchweLavasioRßzn
+Daora-Gewebe
+Lao-Shan-Panzer
+Teostra-Mähne
+Monoblos-Herz
+FeuerwyvernKlaue
+Hypno-Klaue+
+Hypno-Bezoar
+Garuga-Schuppe+
+SchwarzNargaPlz
+Nargacuga-Reißz+
+Tigrex-RückenPnz
+RathalosRückPnz
+Diablos-Thorax
+Schlafbeutel
+SchwBlosThorax
+(dummy)Famitsu Invoice
+Jägerschein
+Tigrex-Schuppe+
+Feuerwyvern-Mark
+LaoShanRückpanz
+Fatalis-Panzer
+Akantor-Reißzahn
+Scharfer Pilz
+Gourmet-Tunfisch
+AzurRath-Schupp+
+SilbRthlosSchup+
+Lunastra-Schweif
+KarmFatalisPanz
+WeißFatalisPanz
+RobustWyvrnknoch
+Tödl. Giftbeutel
+DickGarugaSchupp
+StarkGarugaFlügl
+Massiver Knochen
+SchwarzNargaPlz+
+SchwerNargaReißz
+SchweTigrexPanzr
+SchwerTigrexRßzn
+SchweRathalosPnz
+SchweDiablosRükg
+Komabeutel
+DickBlaKutKSchup
+DickBullfangoPlz
+LdrPelagusPelz
+SweSwaBlosRükgrt
+SchweGraviosSchu
+(dummy)FamitsuSpcialTkt
+SchwrzgürtlMünzG
+SpezPuppenschein
+HarteRajangKlaue
+SchwerRajangRßzn
+StarkerDaoraFlüg
+LdrKirinDnrSchwf
+Lunastra-Stachel
+SchweTeostraPanz
+YamaTsukamiFilet
+SchweFatalisPanz
+StrkFatalisFlügl
+UkanlosSchflkifr
+UkanlosUntrSchup
+DickAzrRthlsSchu
+DickSilRthlsSchu
+DckFatalKarmSchp
+SchweWßFatalPanz
+Genprey-Reißzahn
+Ioprey-Reißzahn
+Garuga-Schweif
+Ceanataur-Zange
+Rathalos-Schweif
+Giadrome-Klaue
+Velocidromeklaue
+Plesioth-Münze
+Cephadrome-Münze
+Harzpflanze
+Nährstoffe
+Chameleos-Klaue
+Daora-Klaue
+Gaoren-Zange
+Teostra-Panzer
+FeuerDrachKlaue
+AzurRath-Schweif
+Velocidr.Klaue+
+Vespoidunterleib
+BlangongaSchweif
+Rajang-Schweif
+Donnerbeutel
+ChameleosStachel
+ScharfDaoraKlaue
+Gravios-Münze
+Megapanzerhaut
+SilbRath-Schweif
+KarmFatalisFlügl
+WeißFatalisGeweb
+LederGarugaSchwf
+LederBlangoSchwf
+SchweCeanatauGam
+DickeTigrexSchup
+HimmlGraviosSchu
+Blitzbeutel
+LedKuBlangoSchwf
+HarteGaorenKlaue
+HrtFeurDrchKlaue
+YamaTsukami-Haut
+UkanlosGrabklaue
+LdrSilRthlsSchwf
+StrkFatalKarmFlü
+StarkWßFatalFlüg
+Monsterknochen M
+CongalalReißzahn
+Kaltes Fleisch
+Panzerhaut
+Helles Extrakt
+Riesenmarienkäf.
+ChameleosSchweif
+Lunastra-Horn
+Gr. Knochenhülse
+Bulldrome-Hauer
+NargaKlingenFlüg
+Gaoren-Klaue
+Akantor-Stachel
+Gefrorene Beere
+HrtFeuerwyvernKl
+StrkNargaKliFlüg
+GroPelagusRßzn
+LdrChameleoSchwf
+SchweUkanlosSchf
+Lao-ShanDickSchu
+Ceanataur-Bein
+Shakalaka-Schatz
+Gegengiftkraut
+Impfstoff
+Schlemmtunfisch
+Megadämon-Mittel
+(dummy)Famitsu PT Tckt
+Shakalaka-Erbe
+KirDonnerschweif
+Maxi-Trank
+Lao-Shan-Rubin
+Riesenhummerpanz
+StrkChameleosFlü
+Kraftsamen
+Suiko-Juwel
+Dämonenmittel
+Akito-Juwel
+LapislazuliJuwel
+SchlchtfeldJuwel
+VespoidKöginKron
+Kräutermedizin
+Bitterkäfer
+Energy-Drink
+Kraftpille
+BlangongReißzahn
+Schw Blosschweif
+Prachtschnabel
+Polterfisch
+Congalala-Klaue
+Normal S Stufe3
+Pierce S Stufe3
+Schrot S Stufe3
+Crag S Stufe3
+Streu S Stufe3
+Kraftbeschichtg
+Nahbreichbschtg
+Giftbeschichtung
+Lähmbeschichtung
+Schlafbeschichtg
+Drachenholz+
+Kelbi-Horn
+Schockfalle
+Gebratenes Steak
+Gourmet-Steak
+Kohliges Fleisch
+Megasaft
+Daora-Schweif
+Gr Hummerpanzer
+FroschMitSchwanz
+Felvine
+Katalysator
+VespoidDolchflüg
+Kraftextrakt
+Feuerkraut
+Drachensamen
+Drachen S
+HornissDolchflüg
+Nitropilz
+Käferhüpfer
+Bumerang
+Flöte
+Reizpilz
+Mega-Spitzhacke
+Mega-Käfernetz
+ShakalakaSchatz+
+Netz
+Fallengerät
+Stahlei
+Goldei
+Grille
+Yamswurzelkäfer
+Psychoserum
+Fernglas
+Honig
+Gesundheitsflöte
+Schießpulver
+Kameradenschein

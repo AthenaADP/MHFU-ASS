@@ -1,0 +1,677 @@
+Pelle di Anteka
+Pietra a disco
+Minerale ferro
+Osso mostro pic
+Pelle Bullfango
+Pelle di Kelbi
+Min. Machalite
+Scaglia Kut-Ku
+Zanna Velociprey
+Teschio ignoto
+Pelle Blango
+Scaglia Giaprey
+Corna di Anteka
+Cristallo terra
+Cote
+Guscio di bacca
+Invol. osso pic.
+Sc. Velociprey
+Pelle Velociprey
+Insetto-carpent.
+Ala Vespoid
+Corazza Vespoid
+Crist. di luce
+Testa Hornetaur
+Cor. Hornetaur
+Pelle vibrante
+Fluido di mostro
+Pelle Gendrome
+Scaglia Genprey
+Scaglia Ioprey
+Pelle Ioprey
+Orecchio Kut-Ku
+Corazza Kut-Ku
+Membrana Kut-Ku
+Pinna Cephalos
+Scaglia Cephalos
+Pelle Congalala
+Artiglio affil.
+Pelle gommosa
+Pietra antisett.
+Pelle Genprey
+Osso pallido
+Pelle vizza
+Art. Hermitaur
+Cor. Hermitaur
+Scaglia Plesioth
+Arrowana bomba
+Guscio arag. pic
+Pinna Plesioth
+Cor. Kut-Ku blu
+Pelle gomm.viol.
+Pelle seducente
+Sc. Plesioth vrd
+Pinna Ples. vrd
+Corazza Basarios
+Sgombro-coltello
+Corazza Monoblos
+Corno rss sangue
+Orecchio Garuga
+Becco appuntito
+Corazza Garuga
+Criniera Garuga
+Baffo Blangonga
+Pelle Blangonga
+Osso mostro gr
+Pel. Velocidrome
+Art. Ceanataur
+Cor. Ceanataur
+Cor.Ceanataur pc
+Scaraf.assassino
+Scaglia Rathian
+Corazza Rathian
+Cor.tesch.Tigrex
+Scaglia Tigrex
+Corazza Tigrex
+Ala Rathalos
+Scaglia Rathalos
+Min. Dragonite
+Corno contorto
+Corazza Diablos
+Osso mostro+
+Corazza Gravios
+Cor.tesch.Grav.
+C. cont. Blos nr
+Cor. Blos nero
+Cor. Gravios nr
+Tesch.Gravios nr
+Fungo caos
+Fungo paralisi
+BuonoPstFln.norm
+Insetto-dio
+Pelle Mosswine
+Bollo a impronta
+Testa Bullfango
+Pelle Bulldrome
+Osso gigante
+Teschio Giadrome
+Pelle di Giaprey
+Moneta Kut-Ku
+Testa Velocidr.
+Moneta Congalala
+Sacca-fiamma
+Elettrosacca
+Supersucco
+Perla nera
+Ala Basarios
+Ala Hornetaur
+Buono Pokke
+Crist. ghiaccio
+Crist. di vita
+Elogio G
+Rub. pelo Felyne
+Grillo imperat.
+BuonoPstFln.Plus
+Pietra focaia
+Pesce gourmet
+Teschio Gendrome
+Zanna di wyvern
+Moneta Khezu
+Mon. Yian Garuga
+Buono Cint.nera
+Moneta Shogun
+Sp. dors. Gaoren
+Encomio
+Dosbiscus
+Moneta Tigrex
+Moneta Diablos
+Teschio Iodrome
+Moneta Daimyo
+Teschio Remobra
+Fluido wyv.fuoco
+Erba Tramonto
+Fiore di cactus
+Carpa primavera
+Tonno-spillo
+Libro combo 1
+Buono Hypno
+PelleHypnoAranc+
+Zanna Hypno
+Pesce-sonno
+ArtiglioHypnoTop
+Erba soporifera
+Gr. mosca-corno
+Hercudrome
+Insetto-tuono
+Pietra oscura
+Pezzo oscuro
+Antica pozione
+Stoffa sinistra
+Pelle a strisce
+Zanna di Blos
+Osso drago anz.
+Buono Lavasioth
+ScagSpeLavasioth
+PinnSpLavasioth+
+Pelle Chameleos
+Membr. Chameleos
+Piastra Rathian
+Corno di Daora
+Corazza di Daora
+Pelle Kirin
+Corno Kirin
+Criniera Kirin
+Muschio di drago
+Legno di drago
+Piastra Rathalos
+Scaglia Lao-Shan
+Corno Lao-Shan
+Corno maestoso
+CrinieraLunastra
+Membr.Dragofuoco
+Sangue drago anz
+Corazza Gaoren
+Corno di Teostra
+Scgl Drago fuoco
+(dummy)King Lobster Shl
+(dummy)Famitsu Ticket
+Crn Monoblos bnc
+Sp.d.Monobl. bnc
+Cor.Monoblos bnc
+Cor.Rathian rosa
+Sc. Rathian rosa
+Punta Rathian
+Ala Rathalos azz
+Sc. Rathalos azz
+Cor.Rathalos azz
+Pelle alta qual.
+Pelle Blango+
+Ins. Arcobaleno
+Pelle Bulldrome+
+Min. Carbalite
+Scarabeo gigante
+Teschio maestro
+Osso robusto
+Sc. Velociprey+
+Pel. Velociprey+
+Ala int. Vespoid
+Carapace Vespoid
+Brodo di mostro
+Novacristallo
+Scaglia dr.Daora
+Ala int.Hornet.
+Carap. Hornetaur
+Scaglia Genprey+
+Pelle Genprey+
+Sacca paralizz.
+Scaglia Ioprey+
+Pelle Ioprey+
+Sacca di tossina
+Or. lungo Kut-Ku
+Carapace Kut-Ku
+Pelle di Conga+
+Sc. Cephalos+
+Pinna Cephalos+
+Pelle Congalala+
+Art. Congalala+
+Pelle gommosa+
+Testa Gypceros
+Coda di Gendrome
+Pelle conc.Khezu
+Osso mostro duro
+Art. Hermitaur+
+Carap. Hermitaur
+Cor.teschio wyv.
+PelleHypnoAranc
+Piuma arcobaleno
+Becco Hypno
+Lacrime Basarios
+Carap. Basarios
+Scaglia Kut-Ku+
+Scl Kut-Ku blu+
+Sc. Plesioth+
+Pinna Plesioth+
+Torace Monoblos
+Gran corno rosso
+CarapaceMonoblos
+Cella di fuoco
+Orec.LungoGaruga
+Becco Fresco
+Carapace Garuga
+Pelle Blangonga+
+Zanna Blangonga+
+Osso bruto
+Carap. Ceanataur
+Art. Ceanataur+
+Scaglia Rathian+
+Carapace Rathian
+Spine coda Narga
+Scaglia Narga+
+MidolloAllNarga
+Artiglio Tigrex+
+Zanna di Tigrex+
+Rubino Rathalos
+Sc. Rathalos+
+Carapace Diablos
+Raro scarabeo
+Carapace Gravios
+Pelle Giaprey+
+Min. arcobaleno
+Scaglia Giaprey+
+Carap.Kut-Ku blu
+Sc. Ceph.corallo
+Pinna Ceph. cor.
+Ala Gypc. viol.
+Membrana seduc.
+Bist Khezu pall.
+Pesce-dorato pic
+Scgl Ples. vrd+
+PinnaPles.verde+
+Carap. Blos nero
+Car. Gravios nr
+Buono Esperto
+Moneta Kirin
+Moneta di fuoco
+Membrana Fatalis
+Polv.Drago fuoco
+Carapace Daora
+(dummy)One-HornedTicket
+(dummy)Pirate J Ticket
+Carapace Teostra
+Pelle Remobra+
+Corno di Rajang
+Pelle Rajang dor
+PelleRajang nero
+Scgl dr. Daora+
+Succo Ins.-tuono
+Sacca-inferno
+Pelle Chameleos+
+Gioiello Cham.
+Gioiello Daora
+Pelle di Kirin+
+Corno Kirin azz.
+Sc. Lao-Shan+
+Art. Lao-Shan
+Carapace Gaoren
+Torace Gaoren
+Corno Teostra+
+ScglDrago fuoco+
+GioielloDr.fuoco
+Occhio Fatalis
+Scaglia Fatalis
+Corno Fatalis
+Mid.all.wyv.fuo.
+Artiglio Akantor
+Corazza Akantor
+Scaglia Akantor
+Pietra-wyvern
+Pesce gourmet+
+Car.Rathalos arg
+Minerale Union
+Moneta Rajang
+Pillola-armatura
+Tonno-lancia
+ToraceMonobBian
+CarapMonoblosBia
+GranCornoPlatino
+Carap. Rath.rosa
+Sc.Rathian rosa+
+Punta Rathian+
+Car.Rathalos azz
+Car.Rathian dor.
+ScglRathian dor+
+Rubino Rathian
+Ala Rathalos arg
+Cor. Lao-S azz.
+Crn Lao-Shan azz
+Occh.malvFatalis
+Sc. crem Fatalis
+Crn crem Fatalis
+Scgl Fatalis bnc
+CornoFatalis bnc
+OrecFortunKut-Ku
+CorazzaPesKut-Ku
+Ala forte Kut-Ku
+PelDurCongalala+
+ArtDurCongalala+
+Pelle gomm.spec+
+TestDuraGypceros
+Cristalpuro
+PelleKhezu crema
+OssoMostroPesan.
+Essenza mostro
+ArtDuroHermitaur
+CorPesHermitaur
+GastroliteHypno+
+Scagl.Sp. Kut-Ku
+CorazPesBasarios
+ForteAlaBasarios
+Pesce antico
+Min. Eltalite
+ScagSpesPlesioth
+PinnaSpPlesioth+
+ZannaPesPiscine
+Min. Mellanje
+CorazDuraGaruga
+PelleArgGaruga
+PellDrBlangonga+
+ZannPesBlangonga
+Artiglio perfor.
+CorCeanataurPes
+ArtDurCeanataur
+ScagSpesRathian
+CorazPesRathian
+SpinPesCodaNarga
+ScagliaSpesNarga
+ScaglCelesNarga
+CoraPesLavasioth
+PellSpecRemobra+
+ArtigDuroTigrex
+ScaCelesteTigrex
+ScagDuraRathalos
+AlaFortRathalos
+ScaCelesRathalos
+CorazPesDiablos
+CornoDuroAttorc
+FarfallaFantasma
+CorazPesGravios
+Mid.all.Gravios
+CorPesKut-KuBlu
+PelleCongalalaS+
+Cresta Vibrante
+ArtigDurCongaS
+AliDurePorpGypce
+ForteAlaAffascin
+TaglioSpecKhezu
+Polvere di vita
+ArtigDaimyoViola
+CorazDaimyoViola
+ScagSpesPlesioVr
+PinnaSpPlesio+Vr
+PellBlangongaR.+
+ZannPesBlangoR.
+CorCeanatrTerra
+ArtCeanatrTerra
+Perla nera giga.
+CorazPesNeraBlos
+CornNerDurAttorc
+GranPietraWyvern
+CorPesGraviosNer
+CornoDuroRajang
+PelleRajangNero+
+ScagDraSpesDaora
+PelleRajangOro+
+ScaSpesRathnOro
+ArtiglioLaoSBlu
+Moneta Esperto G
+Moneta guerrierG
+Pelle spec.Kirin
+Moneta leggendaG
+Elogio S
+Gelatina tuono
+SaccaFuocoFulg
+PelleSpecChamel+
+GioielGrDragoAnz
+CorazPesanDaora
+Corno duro Daora
+OssoGrDragoAnzia
+Criniera Platino
+ScaSpeDragoFuoco
+CarapaceLunastra
+Corazza Lunastra
+CorazPesanGaoren
+SpinDorPesGaoren
+CornDurChameleos
+CorazCelesGaoren
+CornoDurTeostra
+MuschioDragoAnt
+LegnoDragoAntico
+Fluido Y.Tsukami
+OcchioMalFatalis
+ScagSpesFatalis
+CornoDuroFatalis
+PinnForteUkanlos
+CorazPesUkanlos
+CorPesanLao-Shan
+Pietra Ukanlos
+Libro combo 5
+CorPesRathnRosa
+ScaSpesRathnRosa
+Spina Rathian
+CorPesRathlsBlu
+CorPesRathnOro
+SpinaRathianOro
+ScaglPesRathian
+CorPesRathlsArg
+ScaCelesLao-Shan
+CorPesFatalisCre
+CornoDurFatalisC
+ScagSpesFatalisB
+CornoDurFatalisB
+Pelle Giadrome
+Sacca di veleno
+Pelle di Conga
+Cor.Hermitaur pc
+Zanna di Piscine
+Scl. Kut-Ku blu
+Spina d.Monoblos
+Scaglia Garuga
+Ala Garuga
+Zanna di Tigrex
+Artiglio Tigrex
+Membr. Rathalos
+Corazza Rathalos
+Spina d. Diablos
+Pelle Iodrome
+Spina d. Blos nr
+Moneta Blangonga
+Buono Anima cacc
+Carne calda
+Pelle di Remobra
+Edera
+Arrowana-scoppio
+ZannPesLavasioth
+Membrana Daora
+Corazza Lao-Shan
+Criniera Teostra
+Cuore Monoblos
+Art.wyvern fuoco
+Artiglio Hypno+
+GastroliteHypno
+Scaglia Garuga+
+Pelle nera Narga
+Zanna Nargacuga+
+Carapace Tigrex
+Carap. Rathalos
+Torace Diablos
+Sacca soporifera
+Torace Blos nero
+(dummy)Famitsu Invoice
+Buono cacciatore
+Scaglia Tigrex+
+Midollo wyv.fuo.
+Carap. Lao-Shan
+Corazza Fatalis
+Zanna di Akantor
+Fungo speziato
+Tonno-gastronomo
+Sc.Rathalos azz+
+Scgl Rathal.arg+
+Coda di Lunastra
+Cor.crem Fatalis
+Cor. Fatalis bnc
+OssoRobusWyvern
+SaccaVelenoMort
+ScaglSpesGaruga
+Ala forte Garuga
+Osso massiccio
+Pelle neraNarga+
+ZannPesNargacuga
+CorazPesanTigrex
+ZannaPesanTigrex
+CorazPesRathalos
+SpnDorPesDiablos
+SaccaSonnoProf
+Sca.Sp.Kut-KuBlu
+PelSpesBullfango
+Cuoio Pelagus
+SpinaPesNeraBlos
+CorCelGraviosNer
+(dummy)FamitsuSpcialTkt
+MonetaCintNeraG
+Buono Buratt.sp.
+ArtigDurRajang
+ZannaPesRajang
+Ala Forte Daora
+CodaPelTuonKirin
+Spina Lunastra
+CorazPesTeostra
+FiletYamaTsukami
+CorazPesFatalis
+AlaForteFatalis
+MandibPalaUknlos
+SottoScagUkanlos
+ScaSpesRathlsBlu
+ScaSpesRathlsArg
+ScaSpeFatalisCre
+CorazPesFatalisB
+Zanna Genprey
+Zanna Ioprey
+Coda Garuga
+Pinza Ceanataur
+Coda Rathalos
+Artgl. Giadrome
+Art. Velocidrome
+Moneta Plesioth
+Mon. Cephadrome
+Pianta da linfa
+Nutrienti
+Art. Chameleos
+Artiglio Daora
+Pinza di Gaoren
+Corazza Teostra
+Art. Drago fuoco
+CodaRathalos azz
+Art.Velocidrome+
+Addome Vespoid
+Coda Blangonga
+Coda di Rajang
+Sacca-tuono
+Punta Chameleos
+Art. aff. Daora
+Moneta Gravios
+Mega Pelle-arm.
+CodaRathalos arg
+Ala crem Fatalis
+MembrFatalis bnc
+CodaPelleGaruga
+CodaCuoioBlango
+GamCeanataurPes
+ScagSpessaTigrex
+CorCelesGravios
+Sacca fulmine
+CodaCuoioBlangoR
+ArtigDuroGaoren
+ArtDurDragoFuoco
+PelleYamaTsukami
+ArtVangaUkanlos
+CodaPelRathlsArg
+AlaForFatalisRos
+AlaForteFatalisB
+Osso mostro med
+Zanna Congalala
+Carne fredda
+Pelle-armatura
+Estratto pallido
+Gr. coccinella
+Coda Chameleos
+Corno Lunastra
+Invol. osso gr.
+Zanna Bulldrome
+AlaFendenteNarga
+Artiglio Gaoren
+Punta di Akantor
+Bacca ghiacciata
+ArtDuroWyvFuoco
+AlaFortFendNarga
+ZannRobPelagus
+CodaPelChameleos
+CodaPesanUkanlos
+ScaSpesLao-Shan
+Zampa Ceanataur
+Tesoro Shakalaka
+Erba antidoto
+Immunizzatore
+Tonno-ghiottone
+Mega Droga dem.
+(dummy)Famitsu PT Tckt
+Eredità Shaka
+Coda tuono Kirin
+Pozione max
+Rubino Lao-Shan
+GrCorazAragosta
+AlaFortChameleos
+Superseme
+Gioiello Suiko
+Droga demoniaca
+Gioiello Akito
+Gll Lapislazzuli
+Gll Campo batt.
+CoronaVespoidReg
+Medicina di erbe
+Insettamaro
+Bev. energetica
+Superpillola
+Zanna Blangonga
+Coda Blos nero
+Splendido becco
+Pesce-rombo
+Art. Congalala
+P Normale Lv3
+P Perforante Lv3
+P Pallottola Lv3
+P Picco Lv3
+P Grappolo Lv3
+Sostanza Energ.
+SostanzaAttRavv
+Sostanza Veleno
+Sostan. Paralisi
+Sostanza Sonno
+Legno di drago+
+Corno di Kelbi
+Trapp. a scossa
+Bist. ben cotta
+Bistecca gourmet
+Carne bruciata
+Mega-succo
+Coda di Daora
+Guscio arag. gr
+Rana dalla coda
+Felvine
+Catalizzatore
+AlaRasoioVespoid
+Superestratto
+Erba fuoco
+Seme Drago
+P Drago
+AlaRasoioHornet
+Fungo-nitro
+Ins. salterino
+Boomerang
+Flauto
+Fungo stimolante
+Mega piccone
+Mega rete
+TesoroShakalaka+
+Rete
+Attrezzo trapp.
+Uovo d'acciaio
+Uovo d'oro
+Grillo
+Insetto-patata
+Psicosiero
+Binocolo
+Miele
+Flauto Salute
+Polvere da sparo
+Buono compagno

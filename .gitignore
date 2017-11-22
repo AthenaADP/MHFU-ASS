@@ -303,3 +303,12 @@ __pycache__/
 *.rar
 *.zip
 *.jpg
+*.db
+*.rar
+*.zip
+*.jpg
+Run/**
+!Run/Data
+!Run/Data/**
+!Run/credits.txt
+*.exe
